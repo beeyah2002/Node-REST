@@ -21,6 +21,6 @@
     "pg": "^8.11.3",
     "save-dev": "^0.0.1-security",
     "sequelize": "^6.33.0",
-    "sqlite3": "5.1.6"
+    "sqlite3": "^5.1.6"
   }
 }
